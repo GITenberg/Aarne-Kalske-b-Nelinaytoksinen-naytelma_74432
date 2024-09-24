@@ -1,0 +1,25 @@
+_repo: Aarne-Kalske-b-Nelinaytoksinen-naytelma_74432
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kivipelto, T. E.
+    gutenberg_agent_id: '57504'
+    url: http://www.gutenberg.org/2009/agents/57504
+description: ''
+gutenberg_issued: '2024-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74432'
+language: fi
+pgterms:marc905: 20240915012755kivipelto
+pgterms:marc906: '1923'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aTampere :$bTampereen Työväen Sanomalehti Oy, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Aarne Kalske : $b Nelinäytöksinen näytelmä'
+url: http://www.gutenberg.org/ebooks/74432
